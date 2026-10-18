@@ -33,7 +33,7 @@ Le projet ne revendique pas une qualité équivalente à Adobe Podcast.
 Python 3.10 ou plus récent. Le code Python n'a pas de dépendance d'exécution.
 
 ```sh
-git clone https://github.com/pf1s/VoxRefine.git
+git clone https://github.com/clem-pnt/VoxRefine.git
 cd VoxRefine
 python3 -m venv .venv
 . .venv/bin/activate
